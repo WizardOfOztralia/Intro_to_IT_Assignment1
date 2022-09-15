@@ -22,9 +22,8 @@ h2 {
 }
 
 h5 {
-  text-align: center;
   color: white;
-  font-size: 40px;
+  font-size: 30px;
 }
 p {
   color: white;
@@ -38,7 +37,6 @@ p {
 ul {
 color: white;
 text-align: center;
-font-size: 30px;
 }
 
 li{
